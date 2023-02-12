@@ -76,7 +76,6 @@ public class TicketManagerTest {
         Ticket ticket6 = new Ticket(6, "MSK", "SPB", 200, 130);
         Ticket ticket7 = new Ticket(7, "MSK", "ANA", 300, 243);
         Ticket ticket8 = new Ticket(8, "MSK", "SPB", 500, 99);
-
         manager.add(ticket1);
         manager.add(ticket2);
         manager.add(ticket3);

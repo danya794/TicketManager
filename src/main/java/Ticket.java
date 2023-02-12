@@ -14,7 +14,7 @@ public class Ticket implements Comparable<Ticket> {
     }
 
     //public int getId() {
-        //return id;
+    //return id;
     //}
 
     public String getFrom() {
@@ -30,7 +30,7 @@ public class Ticket implements Comparable<Ticket> {
     }
 
     //public int getDuration() {
-        //return duration;
+    //return duration;
     //}
 
     @Override
